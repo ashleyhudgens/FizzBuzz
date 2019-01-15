@@ -1,0 +1,6 @@
+C:\Users\ahudgens\source\repos\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.exe.config
+C:\Users\ahudgens\source\repos\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.exe
+C:\Users\ahudgens\source\repos\fizzBuzz\fizzBuzz\bin\Debug\fizzBuzz.pdb
+C:\Users\ahudgens\source\repos\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\ahudgens\source\repos\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.exe
+C:\Users\ahudgens\source\repos\fizzBuzz\fizzBuzz\obj\Debug\fizzBuzz.pdb
